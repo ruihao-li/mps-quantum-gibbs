@@ -1,0 +1,19 @@
+# Python 3.12; CPU float64. Versions exercised in the research environment.
+numpy==2.0.1
+scipy==1.14.1
+psutil==5.9.0
+jax==0.4.35
+jaxlib==0.4.35
+optax==0.2.5
+chex==0.1.89
+ml-dtypes==0.5.1
+opt-einsum==3.4.0
+quimb==1.11.0
+qiskit==2.1.2
+qiskit-quimb==0.0.3
+networkx==3.3
+cotengra==0.7.5
+autoray==0.7.0
+numba==0.60.0
+llvmlite==0.43.0
+tqdm==4.66.5

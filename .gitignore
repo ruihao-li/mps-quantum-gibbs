@@ -1,0 +1,27 @@
+# Keep generated results outside this source-only repository.
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+.DS_Store
+.env
+.env.*
+*.log
+*.aux
+*.out
+*.fdb_latexmk
+*.fls
+data/
+results/
+outputs/
+cache/
+*.npz
+*.npy
+*.h5
+*.hdf5
+*.pkl
+*.pickle
+*.pdf
+*.png
+*.pgf
+*.csv
